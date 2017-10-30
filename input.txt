@@ -1,0 +1,6 @@
+DEFINE ManualReview BackgroundCheck DocumentSigning
+STATS
+CREATE howon@fountain.com
+ADVANCE howon@fountain.com
+DECIDE howon@fountain.com 0
+STATS

@@ -1,0 +1,10 @@
+DEFINE ManualReview BackgroundCheck
+CREATE dan@fountain.com
+CREATE paul@fountain.com
+CREATE paul@fountain.com
+ADVANCE paul@fountain.com
+ADVANCE paul@fountain.com BackgroundCheck
+DECIDE paul@fountain.com 1
+DECIDE dan@fountain.com 1
+ADVANCE dan@fountain.com
+DECIDE dan@fountain.com 1
