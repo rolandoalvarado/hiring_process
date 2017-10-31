@@ -86,6 +86,7 @@ class Processor
       end
       lines << final_stats.join(' ')
       create_file(lines, output_file)
+      puts "Successfully process hiring."
     rescue
       message = "An error occured while trying to parse #{input_file}"
     end
